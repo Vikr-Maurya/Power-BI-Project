@@ -1,3 +1,5 @@
+**Sales Insights of AtliQ Hardware - POWER BI Project
+**
 💡Learnings: Essential Skills 💡
 
 📝To clarify the goal and conclusion of the project, used the AIMS Grid project management tool.
